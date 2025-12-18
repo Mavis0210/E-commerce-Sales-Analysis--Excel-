@@ -1,5 +1,5 @@
-#  E-commerce Sales Analysis (Excel)
-
+  E-commerce Sales Analysis (Excel)
+---
 
 
 ## Project Overview
@@ -14,11 +14,10 @@ The dataset contained inconsistent country names, messy product categories, mixe
 
 
 
----
 
 
 
-#### \## Data Cleaning \& Preparation
+## Data Cleaning \& Preparation
 
 All data preparation was performed in \*\*Power Query\*\*, including:
 
@@ -34,7 +33,7 @@ All data preparation was performed in \*\*Power Query\*\*, including:
 
 
 
-##### \## Dimension tables created:
+## Dimension tables created:
 
 \- Country Dimension
 
@@ -44,11 +43,9 @@ All data preparation was performed in \*\*Power Query\*\*, including:
 
 
 
----
 
 
-
-#### \## Data Model
+## Data Model
 
 A star-schema-style data model was implemented using Excel’s Data Model:
 
@@ -62,11 +59,10 @@ Relationships were configured to enable cross-filtering across all visuals.
 
 
 
----
 
 
 
-#### \## Dashboard Features
+## Dashboard Features
 
 The Excel dashboard includes:
 
@@ -88,11 +84,8 @@ All visuals update dynamically based on slicer selections.
 
 
 
----
 
-
-
-#### \## Key Insights
+## Key Insights
 
 \- The United States consistently generates the highest sales volume.
 
@@ -104,11 +97,10 @@ All visuals update dynamically based on slicer selections.
 
 
 
----
 
 
 
-#### \## Business Recommendations
+## Business Recommendations
 
 \- Prioritize inventory and marketing investments in the United States.
 
@@ -120,11 +112,9 @@ All visuals update dynamically based on slicer selections.
 
 
 
----
 
 
-
-#### \## Tools Used
+## Tools Used
 
 \- Microsoft Excel
 
@@ -136,23 +126,18 @@ All visuals update dynamically based on slicer selections.
 
 
 
----
-
-#### 
-
-#### \## Dashboard Preview
+## Dashboard Preview
 
 
 
-!\[Dashboard](/screenshots/dashboard-overview.png)
+![Dashboard](/screenshots/dashboard-overview.png)
 
 
 
----
 
 
 
-#### \## Files
+## Files
 
 \- `Messy\_Ecommerce\_Dataset\_2022\_2025 .xlsx` – Interactive dashboard and data model
 
