@@ -1,8 +1,8 @@
-# \# E-commerce Sales Analysis (Excel)
+#  E-commerce Sales Analysis (Excel)
 
 
 
-### \## Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end data analysis workflow using Microsoft Excel and Power Query.  
 
