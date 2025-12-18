@@ -1,4 +1,4 @@
-  E-commerce Sales Analysis (Excel)
+ # E-commerce Sales Analysis (Excel)
 ---
 
 
@@ -19,7 +19,7 @@ The dataset contained inconsistent country names, messy product categories, mixe
 
 ## Data Cleaning \& Preparation
 
-All data preparation was performed in \*\*Power Query\*\*, including:
+All data preparation was performed in Power Query, including:
 
 \- Standardizing country names using a mapping (dimension) table
 
@@ -91,7 +91,7 @@ All visuals update dynamically based on slicer selections.
 
 \- Furniture is the top-performing product category by revenue.
 
-\- Product SKU \*\*P007\*\* is the highest revenue-generating product.
+\- Product SKU P007 is the highest revenue-generating product.
 
 \- Monthly sales show seasonal patterns with noticeable peaks in specific months.
 
@@ -139,9 +139,9 @@ All visuals update dynamically based on slicer selections.
 
 ## Files
 
-\- `Messy\_Ecommerce\_Dataset\_2022\_2025 .xlsx` – Interactive dashboard and data model
+\- Messy_Ecommerce_Dataset_2022_2025.xlsx – Interactive dashboard and data model
 
-\- `/screenshots` – Dashboard visuals
+\- /screenshots – Dashboard visuals
 
 
 
